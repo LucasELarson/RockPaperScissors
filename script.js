@@ -2,6 +2,7 @@ var choice;
 var scoreComp = 0;
 var scorePlayer = 0;
 
+
 function getComputerChoice(max) {
     let computerChoice = Math.floor(Math.random() * max);
     console.log(computerChoice); 
