@@ -1,0 +1,32 @@
+.pick{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+
+.guide{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+.but{
+    width: 150px;
+    height: 75px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.play{
+    display: flex;
+    justify-content: center;
+}
+
+.result{
+    padding:25px
+}
